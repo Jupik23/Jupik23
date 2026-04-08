@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jupik23" alt="jupik23" /></a> </p>
 
-- 🌱 I’m currently learning **automatisation in python**
-
 - 📫 How to reach me **mskrzypiec23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
